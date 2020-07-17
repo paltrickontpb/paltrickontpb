@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to Paltrickontpb's Github Page ✨
+
+I will update the rest in some days :D
+
+- Github : Paltrickontpb ([Link](https://github.com/paltrickontpb))
+- LinkedIn : Projjal Gupta ([Link](https://www.linkedin.com/in/projjalgupta))
+- Personal Webpage : MicroCoder (Under Development)
 
 <!--
 **paltrickontpb/paltrickontpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
