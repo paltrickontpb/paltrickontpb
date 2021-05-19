@@ -3,7 +3,7 @@
 Hey all, I am Projjal Gupta. I love working on VLSI and CAD tools, as well as design micro-architectures, circuits, PCBs, and Hardware IPs. I even work on microcontroller designs and other cool retro tech designs. I'm a huge fan of the 8051 and even base some designs around it. And sometimes tinker around blockchain applications and try to integrate them to low-powered IoT solutions. Feel free to check my projects out and follow me!
 
 ### What am I working on right now?
-- Working on my own bootable OS for x64 and RISC-V.
+- Working on my own bootable OS for x86 and RISC-V.
 - Verilog Testbench Generators (From Scratch using c++)
 - Memory Compilers using Leaf Cells (Probably SKY130PDK if I can understand the tech)
 - Chisel HDL based digital circuit designs. (Can we agree that it is as amazing as Verilog and Bluespec)
