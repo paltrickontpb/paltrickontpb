@@ -1,19 +1,14 @@
 ### Welcome to Paltrickontpb's Github Page ✨
 
-Hey all, I am Projjal Gupta. I love working on VLSI and CAD tools, as well as design micro-architectures, circuits, PCBs, and Hardware IPs. I even work on microcontroller designs and other cool retro tech designs. I'm a huge fan of the 8051 and even base some designs around it. And sometimes tinker around blockchain applications and try to integrate them to low-powered IoT solutions. Feel free to check my projects out and follow me!
+Hey all, I am Projjal Gupta. I am a research assistant for the NSF Space, High Performance and Resilient Computing (SHREC) Lab at the University of Florida. My research encompasses the study of cutting-edge hardware which makes use of In-Memory, Near-Memory and Graph Processing Techniques. I have recently started working with AI frameworks and aim to accelerate training/inference using the above mentioned techniques. I also do a bit of FPGA/Embedded Stuff during my free time.
 
 ### What am I working on right now?
-- Working on my own bootable OS for x86 and RISC-V.
-- Verilog Testbench Generators (From Scratch using c++)
-- Memory Compilers using Leaf Cells (Probably SKY130PDK if I can understand the tech)
-- Chisel HDL based digital circuit designs. (Can we agree that it is as amazing as Verilog and Bluespec)
-- Risc V core. (Tough stuff, but its making some progress)
+- In-Memory Processing on UPMEM PIMs
+- Near memory processing and Data movement studies (target: Samsung CXL-PNM)
 
 ### Connect with me 📲
-- Github : Paltrickontpb ([Link](https://github.com/paltrickontpb))
 - LinkedIn : Projjal Gupta ([Link](https://www.linkedin.com/in/projjalgupta))
-- Gmail : Projjal Gupta ([Link](mailto:projjalgupta@hotmail.com))
-- Personal Webpage : MicroCoder (Under Development)
+- Mail : Projjal Gupta ([Link](mailto:projjalgupta@hotmail.com))
 
 <!--
 **paltrickontpb/paltrickontpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
