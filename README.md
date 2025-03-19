@@ -1,10 +1,11 @@
 ### Welcome to Paltrickontpb's Github Page ✨
 
-Hey all, I am Projjal Gupta. I am a research assistant for the NSF Space, High Performance and Resilient Computing (SHREC) Lab at the University of Florida. My research encompasses the study of cutting-edge hardware which makes use of In-Memory, Near-Memory and Graph Processing Techniques. I have recently started working with AI frameworks and aim to accelerate training/inference using the above mentioned techniques. I also do a bit of FPGA/Embedded Stuff during my free time.
+Hey all, I am Projjal Gupta. I am a research assistant for the NSF Space, High Performance and Resilient Computing (SHREC) Lab at the University of Florida. I research novel hardware devices to integrate them with High Performance Computing (HPC) Clusters. Currently, I am building a custom compute architecture using cache-coherent interconnects and memory-compute devices to reduce data movement bottlenecks existing on traditional hardware. I also do a bit of FPGA/Embedded Stuff during my free time.
 
 ### What am I working on right now?
-- In-Memory Processing on UPMEM PIMs
-- Near memory processing and Data movement studies (target: Samsung CXL-PNM)
+- Researching Memory-Compute Devices (In-memory and Near-memory Processors)
+- Device-Agnostic Benchmarking using Proxy Applications (aka skeleton apps)
+- Heterogeneous compute cluster design
 
 ### Connect with me 📲
 - LinkedIn : Projjal Gupta ([Link](https://www.linkedin.com/in/projjalgupta))
